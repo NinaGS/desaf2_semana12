@@ -18,3 +18,4 @@ Luego de terminar, documenta todo el proceso que hiciste dentro de un README.md,
 Las Keywords y categorías escogidas para la página web
 Una breve descripción del proceso realizado en la búsqueda de keywords
 Un screenshot de la página de inicio y entrada con contenido único basado en las keywords y rubro de la empresa Kleaner
+# desaf2_semana12
